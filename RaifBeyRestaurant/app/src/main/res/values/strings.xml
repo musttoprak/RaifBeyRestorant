@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name" translatable="false">RaifBeyRestaurant</string>
+    <string name="title_activity_category" translatable="false">category</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="skip">Skip</string>
+    <string name="more_variety">More Variety</string>
+    <string name="ligon">Sign In</string>
+    <string name="sing">Sign Up</string>
+    <string name="start">GOT IT</string>
+    <string name="raif_bey_restaurant">Raif Bey Restaurant</string>
+    <string name="title_activity_admin_add_product">AdminAddProductActivity</string>
+
+    <string name="dialog_message">AlerDialog</string>
+    <string name="dialog_title">GBAndroidBlogs</string>
+    <string name="success">Success</string>
+    <string name="warning">Warning</string>
+    <string name="error">Error</string>
+
+    <string name="success_title">Success Title</string>
+    <string name="warning_title">Warning Title</string>
+    <string name="error_title">Error Title</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="okay">Okay</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

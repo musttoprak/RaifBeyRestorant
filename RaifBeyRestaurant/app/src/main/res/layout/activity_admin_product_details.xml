@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.AdminProductDetails"
+    android:orientation="vertical"
+    android:background="#DDDBDB"
+    android:gravity="center|top">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#000000"
+        android:layout_marginTop="36dp"
+        android:layout_marginBottom="36dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/gilroy_bold"
+            android:padding="12dp"
+            android:text="ADMİN PANELİ"
+            android:textColor="@color/white"
+            android:textSize="36dp" />
+    </androidx.cardview.widget.CardView>
+
+
+    <EditText
+        android:id="@+id/etDetailName"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/hintTextColor"
+        android:hint="Ürün adı"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginBottom="12dp"
+        android:textSize="24dp"
+        android:fontFamily="@font/gilroy_light"/>
+    <EditText
+        android:id="@+id/etDetailDescription"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/hintTextColor"
+        android:hint="Ürün açıklaması"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginBottom="12dp"
+        android:textSize="24dp"
+        android:fontFamily="@font/gilroy_light"/>
+    <Spinner
+        android:id="@+id/spnDetailCategorys"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginBottom="12dp"
+        android:background="#ACABAB"
+        android:fontFamily="@font/gilroy_light" />
+    <EditText
+        android:id="@+id/etDetailPrice"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/hintTextColor"
+        android:hint="Ürün fiyatı"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginBottom="12dp"
+        android:textSize="24dp"
+        android:fontFamily="@font/gilroy_light" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnUpdate"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:background="#FF9800"
+            android:fontFamily="@font/gilroy_bold"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text="Güncelle"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="22dp"
+            android:layout_marginRight="4dp"/>
+
+        <Button
+            android:id="@+id/btnRemove"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:background="#FF0000"
+            android:fontFamily="@font/gilroy_bold"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text="Sil"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="22dp" />
+    </LinearLayout>
+</LinearLayout>

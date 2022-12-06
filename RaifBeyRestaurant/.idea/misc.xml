@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable-v24/category_design.xml" value="0.2555" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable-v24/ic_decrease_red.xml" value="0.2555" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable-v24/ic_increase_green.xml" value="0.2555" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/backgrounds_shapes.xml" value="0.121" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/bottom_radius.xml" value="0.2555" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/button_neutral_background.xml" value="0.1855" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/button_success_background.xml" value="0.1855" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/button_warning_background.xml" value="0.1855" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/dialog_background.xml" value="0.1855" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/error_background.xml" value="0.1855" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_add.xml" value="0.121" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_back_arrow.xml" value="0.2375" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.2375" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_cart.xml" value="0.1705" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_decrease.xml" value="0.2375" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_edit_password.xml" value="0.121" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_edit_profile.xml" value="0.121" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_heart.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_heart_red.xml" value="0.1105" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_home.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_increase.xml" value="0.2375" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_languages.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_logout.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_more.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_notifications.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_person.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_phone.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_plus.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_profile.xml" value="0.1855" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/ic_settings_foreground.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/product_design.xml" value="0.2455" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/success_background.xml" value="0.1855" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/toogle_button.xml" value="0.1705" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/drawable/warning_background.xml" value="0.1855" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_admin.xml" value="0.2" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_admin_add_product.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_admin_product_details.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_admin_products.xml" value="0.2359375" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_admin_purchase_confirmation.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_admin_users.xml" value="0.2359375" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_cart.xml" value="0.264" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_category_by_id_products.xml" value="0.24635416666666668" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_favorites.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_otp.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_product_details.xml" value="0.264" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_purchased.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_slider.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_verification.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_verification_google.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/activity_welcome.xml" value="0.264" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/categorys.xml" value="0.4" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/content_admin_add_product.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/deneme_button.xml" value="0.24895833333333334" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/fragment_second.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/item_add.xml" value="0.4" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/item_image.xml" value="0.2" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/item_info.xml" value="0.264" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/layout_error_dialog.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/layout_success_dialog.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/layout_warning_dialog.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/products.xml" value="0.10989583333333333" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/products_design.xml" value="0.536" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/products_design_admin.xml" value="0.536" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/products_design_cart.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/products_design_favorites.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/purchase_confirmation_design.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/purchase_confirmation_design_admin.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/purchased_design.xml" value="0.264" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/row_layout.xml" value="0.264" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/user_design_admin.xml" value="0.25" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/welcome_slider1.xml" value="0.2" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/welcome_slider2.xml" value="0.264" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/welcome_slider3.xml" value="0.264" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/layout/welcome_slider4.xml" value="0.264" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/kotlinc/githubprojeleri/RaifBeyRestaurant/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

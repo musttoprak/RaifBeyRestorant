@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "903444994275",
+    "project_id": "raifbeyrestaurant",
+    "storage_bucket": "raifbeyrestaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903444994275:android:1fd13f8f0c19463d6f8dd6",
+        "android_client_info": {
+          "package_name": "com.example.raifbeyrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903444994275-kpkmg4truikt58bvog8mmbgrsksue1rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raifbeyrestaurant",
+            "certificate_hash": "160152b1d017294ac40e0e65c6a9c0e8e907adef"
+          }
+        },
+        {
+          "client_id": "903444994275-9jdbu67d8lpem93daunqgs58mm9mc5i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlb5s_0-bgcMh8QJdiSevRpHyi1s-MoPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903444994275-9jdbu67d8lpem93daunqgs58mm9mc5i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

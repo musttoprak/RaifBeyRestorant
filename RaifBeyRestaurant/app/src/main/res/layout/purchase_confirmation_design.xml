@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="#A39B9B"
+    android:layout_margin="6dp"
+    app:cardCornerRadius="24dp"
+    android:id="@+id/cvAdminPurchasedConfirmation">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_gravity="center">
+            <TextView
+                android:id="@+id/tvPurchaseDisplayName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mustafa Toprak"
+                android:textSize="24dp"
+                android:fontFamily="@font/gilroy_bold"
+                android:textColor="@color/black"
+                android:gravity="center"/>
+            <TextView
+                android:id="@+id/tvPurchaseProductsName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Büyük boy pizzaghgff \nSpesiyalHamburger"
+                android:textSize="20dp"
+                android:fontFamily="@font/gilroy_light"
+                android:textColor="@color/black"
+                android:gravity="center"/>
+            <TextView
+                android:id="@+id/tvPurchasePrice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="360₺"
+                android:textSize="24dp"
+                android:layout_gravity="center"
+                android:textColor="@color/green"
+                android:gravity="center"/>
+            <Button
+                android:id="@+id/btnConfirmation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:background="@color/yellow"
+                android:text="Onayla"
+                android:textSize="24dp"
+                android:fontFamily="@font/gilroy_bold" />
+        </LinearLayout>
+</androidx.cardview.widget.CardView>
